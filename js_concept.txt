@@ -1,0 +1,9 @@
+1. What is Js: Javascript is a synchronous single-threaded language.Synchronus Single-threaded means js can only execute one command at a time in a specific order.It will go to the next line once the current line has been finished execution.
+
+
+2. How Js works/ How Js executes: Everything in js happens inside an execution context.When we run a js programe the execution context is created.
+
+Call stack maintains the order of execution of execution contexts. 
+3.how v8 javascript engine works
+4.how v8 works
+5. hoisting
